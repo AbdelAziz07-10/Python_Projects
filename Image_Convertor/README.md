@@ -10,10 +10,10 @@ Features
 - Clean and intuitive GUI
 - Custom save location selection
 - Handles PNG images with transparency (RGBA)
+  
+---
 
-Screenshots
-Show Image
-Main application window
+![Application Photo](Image_Convertor.png)
 
 ## Requirements
 - Python 3.x
