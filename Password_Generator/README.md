@@ -1,7 +1,7 @@
 # Secure Password Generator
 A modern, user-friendly password generator built with Python and Tkinter. Generate strong, secure passwords with a beautiful graphical interface.
 
-Show Image
+![Application Photo](Password_Generator.png)
 
 ---
 
@@ -20,7 +20,7 @@ Show Image
 
 ### Clone the repository:
 
-- git clone https://github.com/AbdelAziz07-10/Python_Projects/PasswordGenerator.git
+- git clone https://github.com/AbdelAziz07-10/Python_Projects.git
 - cd password-generator
 
 ### Run the application:
